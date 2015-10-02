@@ -4,7 +4,7 @@
 export LANG=en_US.UTF-8
 
 # user
-export DEFAULT_USER="jeremy"
+export DEFAULT_USER="bowang"
 export PYTHON="python2.7"
 export MY_JAVA_LIB="${HOME}/include/java/"
 
